@@ -1,0 +1,7 @@
+D:\01 Projects\Panasonic Remote Control\pan-control\pan-control\bin\Debug\pan-control.exe.config
+D:\01 Projects\Panasonic Remote Control\pan-control\pan-control\bin\Debug\pan-control.exe
+D:\01 Projects\Panasonic Remote Control\pan-control\pan-control\bin\Debug\pan-control.pdb
+D:\01 Projects\Panasonic Remote Control\pan-control\pan-control\obj\Debug\pan-control.csprojAssemblyReference.cache
+D:\01 Projects\Panasonic Remote Control\pan-control\pan-control\obj\Debug\pan-control.csproj.CoreCompileInputs.cache
+D:\01 Projects\Panasonic Remote Control\pan-control\pan-control\obj\Debug\pan-control.exe
+D:\01 Projects\Panasonic Remote Control\pan-control\pan-control\obj\Debug\pan-control.pdb
